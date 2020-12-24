@@ -1,0 +1,18 @@
+{
+    "name": "wuliang/php-sort-algorithm",
+    "description": "排序算法PHP实现",
+    "type": "library",
+    "authors": [
+        {
+            "name": "wuliang",
+            "email": "742673245@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sort\\PHP\\": "src"
+        },
+        "files": ["src/functions.php"]
+    }
+}
